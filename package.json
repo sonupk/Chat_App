@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "chat_app",
+  "description": "Real time chat App",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonupk/Chat_App.git"
+  },
+  "author": "Sonu Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonupk/Chat_App/issues"
+  },
+  "homepage": "https://github.com/sonupk/Chat_App#readme"
+}
